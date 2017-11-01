@@ -1,6 +1,6 @@
 # Oscar Winners Prediction
 
-Predict which movies can win Academy Awards (Oscar) using machine learning
+Predict which movies can win Academy Awards (Oscar) with machine learning using TMDB movie dataset
 
 ## Data Setup
 1. TMDB Movies Data
@@ -8,4 +8,4 @@ Predict which movies can win Academy Awards (Oscar) using machine learning
 	- Put all of the csv files in `data/movies` folder
 2. Oscar Winners Data
 	- Download the data <a href='https://www.kaggle.com/theacademy/academy-awards'>here<a> 
-	- Put the csv files in `data/oscar_winners` folder
+	- Put the csv file in `data/oscar_winners` folder
