@@ -1,5 +1,7 @@
 # Oscar Winners Prediction
 
+Predict which movies can win Academy Awards (Oscar) using machine learning
+
 ## Data Setup
 1. TMDB Movies Data
 	- Download the data <a href='https://www.kaggle.com/tmdb/tmdb-movie-metadata'>here<a> 
